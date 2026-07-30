@@ -187,15 +187,16 @@ Automated pipelines for parsing, extracting, and structuring unstructured data.
 
 <div align="center">
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=Aimal55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aimal55&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="35%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Aimal55&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=Aimal55&theme=tokyonight&hide_border=true&cache_seconds=86400" width="60%"/>
 
 <br/><br/>
 
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aimal55&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
 
 <br/><br/>
 

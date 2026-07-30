@@ -8,7 +8,6 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Aimal55)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aimalrehman20@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923325545174)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aimal55)
@@ -101,7 +100,7 @@ Automated pipelines for parsing, extracting, and structuring unstructured data.
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge&logo=databricks&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector%20Databases-FF6F00?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector%20Databases-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-black?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Embeddings](https://img.shields.io/badge/Embedding%20Models-FF4088?style=for-the-badge)
@@ -181,96 +180,6 @@ Automated pipelines for parsing, extracting, and structuring unstructured data.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </details>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## &nbsp;🚀&nbsp; Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🦷 AI Dental Receptionist
-Voice AI agent handling patient calls, FAQs, and appointment booking for dental clinics — fully integrated with scheduling systems.
-
-`Retell AI` `Twilio` `n8n` `Python` `Google Calendar API`
-
-**Repo:** `[Add repository link here]`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏡 AI Real Estate Voice Agent
-Conversational voice agent that qualifies property inquiries, answers listing questions, and books viewings automatically.
-
-`ElevenLabs` `Twilio` `LangChain` `n8n`
-
-**Repo:** `[Add repository link here]`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💬 AI Customer Support Chatbot with RAG
-Knowledge-grounded support chatbot using RAG over company documents for accurate, hallucination-free responses.
-
-`LangChain` `Pinecone` `OpenAI` `FastAPI`
-
-**Repo:** `[Add repository link here]`
-
-</td>
-<td width="50%" valign="top">
-
-### 💳 Stripe Payment Link Generator
-Automated tool that generates and manages Stripe payment links via API and workflow triggers.
-
-`Python` `Stripe API` `n8n` `Webhooks`
-
-**Repo:** `[Add repository link here]`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📅 Appointment Booking Voice Agent
-End-to-end voice-driven scheduling system with calendar sync and automated confirmations.
-
-`Retell AI` `n8n` `Google Calendar` `Twilio`
-
-**Repo:** `[Add repository link here]`
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI Lead Qualification Agent
-Autonomous agent that scores, tags, and routes inbound leads based on custom qualification criteria.
-
-`LangChain` `OpenAI` `n8n` `CRM APIs`
-
-**Repo:** `[Add repository link here]`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📱 WhatsApp AI Assistant
-Production-ready WhatsApp assistant for customer engagement, FAQs, and order handling.
-
-`WhatsApp Business API` `Python` `n8n` `OpenAI`
-
-**Repo:** `[Add repository link here]`
-
-</td>
-<td width="50%" valign="top">
-
-&nbsp;
-
-</td>
-</tr>
-</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -361,7 +270,7 @@ I enjoy building useful AI tools and automation utilities, and sharing engineeri
 
 *"The best way to predict the future is to automate it."*
 
-<img src="https://profile-counter.glitch.me/Aimal55/count.svg" alt="Visitor Count"/>
+<img src="https://komarev.com/ghpvc/?username=Aimal55&label=Profile%20Views&color=38BDF8&style=flat" alt="Visitor Count"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
 
